@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Toggle Button Application</string>
+    <string name="light_on_off">Light On/Off</string>
+    <string name="togglebutton">ToggleButton</string>
 </resources>
